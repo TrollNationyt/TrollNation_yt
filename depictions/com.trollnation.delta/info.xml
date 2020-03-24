@@ -1,0 +1,44 @@
+<package>
+	<id>com.trollnation.delta</id>
+	<name>Delta</name>
+	<version>1.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Delta emulator let's you emulate nes, snes, n64, gbc, gba and ds.</shortDescription>
+	<descriptionlist>
+		<description>Delta emulator let's you emulate nes, snes, n64, gbc, gba and ds.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>No Changes</change>
+	</changelog>
+	<links>
+		<link>
+			<name>My Youtube Channel</name>
+            <url>https://www.youtube.com/trollnation</url>
+            <iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+    
+</package>
