@@ -56,7 +56,7 @@ Author: team@xiaoji001.com
 Maintainer: TrollNationyt
 Section: Apps
 Depends:
-Filename: https://github.com/TrollNationyt/repo/blob/master/debs/happychick.deb
+Filename: debs/happychick.deb
 Size:  
 MD5sum: 2c856f592add6dc4bbcef020d6aaa829
 SHA1: de0f5236d5ef123f627115323569ec209d68283f
