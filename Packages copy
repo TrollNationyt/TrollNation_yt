@@ -47,5 +47,22 @@ SHA1: 56532496a4000a76eff49df3cb798f91cd7daf47
 SHA256: 12b379b3960ac1f51c63755f19667bdfb1da29235ec83ce972b0072888edb32d
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.delta
 
+Package: com.trollnation.happychick
+Name: Happy Chick
+Version: 1.5.6.4
+Architecture: iphoneos-arm
+Description: Happy Chick Emulator is a totally free emulator, which supports PSP/ NDS/ N64/ PS1/ WS/ Arcade (CPS1, CPS2, CPS3, IGS)/ GBA/ GBC/ MD/ SFC(SNES), and PS game consoles. With this emulator installed, you have the very access to a library of thousands of console games in wide genres.
+Author: team@xiaoji001.com
+Maintainer: TrollNationyt
+Section: Apps
+Depends:
+Filename: https://github.com/TrollNationyt/repo/blob/master/debs/happychick.deb
+Size:  
+MD5sum: 2c856f592add6dc4bbcef020d6aaa829
+SHA1: de0f5236d5ef123f627115323569ec209d68283f
+SHA256: 18935f5e24fa8bdb138fa149f68ebdbf407f89175a75652c237805d3d664fb54 
+Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.happychick
+
+
 
 

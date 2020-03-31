@@ -1,0 +1,44 @@
+<package>
+	<id>com.trollnation.happychick</id>
+	<name>Happy Chick</name>
+	<version>1.5.6.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>IOS version 7.0+ </package>
+	</dependencies>
+	<shortDescription>Happy Chick Emulator is a totally free emulator, which supports PSP/ NDS/ N64/ PS1/ WS/ Arcade (CPS1, CPS2, CPS3, IGS)/ GBA/ GBC/ MD/ SFC(SNES), and PS game consoles. With this emulator installed, you have the very access to a library of thousands of console games in wide genres.</shortDescription>
+	<descriptionlist>
+		<description>Happy Chick Emulator is a totally free emulator, which supports PSP/ NDS/ N64/ PS1/ WS/ Arcade (CPS1, CPS2, CPS3, IGS)/ GBA/ GBC/ MD/ SFC(SNES), and PS game consoles. With this emulator installed, you have the very access to a library of thousands of console games in wide genres.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>?</change>
+	</changelog>
+	<links>
+		<link>
+			<name>My Youtube Channel</name>
+            <url>https://www.youtube.com/trollnation</url>
+            <iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+    
+</package>
