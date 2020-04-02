@@ -63,6 +63,23 @@ SHA1: de0f5236d5ef123f627115323569ec209d68283f
 SHA256: 18935f5e24fa8bdb138fa149f68ebdbf407f89175a75652c237805d3d664fb54 
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.happychick
 
+Package: com.trollnation.provenance
+Name: Delta
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Emulate your favourite games!
+Author: Provenance
+Maintainer: TrollNationyt
+Section: Apps
+Depends: 
+Filename: debs/provenance.deb
+Size:  
+MD5sum: 471197ac88eb95a3f6396804e3a0da0e
+SHA1: 762707e59b2cfdf0a9d3bbab136d6a0b9f2ab8aa
+SHA256: a0f154fad83dc8abb903de206f8623d42a3a2249edc2ca9506179568cc94c27d
+Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.provenance
+
+
 
 
 
