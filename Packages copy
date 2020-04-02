@@ -64,7 +64,7 @@ SHA256: 18935f5e24fa8bdb138fa149f68ebdbf407f89175a75652c237805d3d664fb54
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.happychick
 
 Package: com.trollnation.provenance
-Name: Delta
+Name: Provenance
 Version: 1.4
 Architecture: iphoneos-arm
 Description: Emulate your favourite games!
