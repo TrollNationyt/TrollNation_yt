@@ -39,7 +39,7 @@ Description: Emulate your favourite games!
 Author: Rileytestut
 Maintainer: TrollNationyt
 Section: Apps
-Depends: 
+Depends: firmware (>= 12.2)
 Filename: debs/delta.deb
 Size:  
 MD5sum: dde9d7f45e154ac4d63076340fb5d7af
@@ -71,13 +71,34 @@ Description: Emulate your favourite games from your favourite consoles!
 Author: Provenance
 Maintainer: TrollNationyt
 Section: Apps
-Depends: 
+Depends: firmware (>= 9.3)
 Filename: debs/provenance.deb
 Size:  
 MD5sum: 471197ac88eb95a3f6396804e3a0da0e
 SHA1: 762707e59b2cfdf0a9d3bbab136d6a0b9f2ab8aa
 SHA256: a0f154fad83dc8abb903de206f8623d42a3a2249edc2ca9506179568cc94c27d
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.provenance
+
+
+Package: dev.nickt.LazyMan-iOS
+Name: LazyMan-iOS
+Version: 1.2.1-698
+Architecture: iphoneos-arm
+Description: A simple app that lets you stream every live and archived NHL and MLB game from any of your iOS devices for free.
+Author: Nick Thompson (inickt) <me@nickt.dev>
+Maintainer: TrollNationyt
+Section: Apps
+Depends: firmware (>= 9.0)
+Filename: debs/LazyMan-iOS_1.2.1-698.deb
+Size
+MD5sum: 0566d574e8b8feb7c1e585ae488a582a
+SHA1: 10d22ca3d30c221187ee4a95c02a29d2c6f22b35
+SHA256: 7db0d550bb06aa083e7d3ad06c16ecb2b27d7575d8ba490dd04bf633f252a1a8
+Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.lazyman
+Icon: file:///Applications/LazyMan-iOS.app/AppIcon60x60@3x.png
+Conflicts: guru.nickthompson.LazyMan-iOS
+
+
 
 
 
