@@ -92,9 +92,9 @@ Section: Apps
 Depends: firmware (>= 9.0)
 Filename: debs/zinitevi.deb
 Size
-MD5sum: 8403e0533c5fab46ab7d4bc095a34088
-SHA1: b9d83f48c04a80b92678e3b2c5e050dcadaa3401
-SHA256: 4083d45cf087d084e154d96a292cc654857b6f1e35b52972f4fee67cd1d64f91
+MD5sum: 471cebde54681d6df62d697eea3e895a
+SHA1: 6b923f9716525b9fObef8f50627e2f1dd2b185c4 
+SHA256: OOOa2234ea58213731d720dc9f86fbdd7053d56a5d30db6962a67c8669108d64
 Depiction: https://trollnationyt.github.io/TrollNation_yt/depictions/?p=com.trollnation.zinitevi
 Icon: file:///Applications/ZiniTevi.app/AppIcon60x60@3x.png
 
